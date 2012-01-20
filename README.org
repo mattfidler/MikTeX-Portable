@@ -1,0 +1,15 @@
+#+TITLE: MikTex Portable
+#+AUTHOR: Matthew L. Fidler
+* Introduction
+This is MikTeX portable.  While there is already a portable version of
+MiKTeX available, this is defferent from the standard in the following
+ways:
+
+1. NSIS launchers
+   1. MikTexOptions
+   2. MikTexPortable
+   3. TexWorksPortable
+   4. YapPortable
+2. NSIS installer
+
+Everything else works the same.
